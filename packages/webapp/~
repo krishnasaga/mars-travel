@@ -1,0 +1,29 @@
+Initial commit from gatsby: (https://github.com/chakra-ui/gatsby-starter-chakra-ui-ts.git)
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Date:      Sat Apr 13 16:06:08 2024 +0100
+#
+# On branch main
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   .gitignore
+#	new file:   LICENSE
+#	new file:   README.md
+#	new file:   gatsby-browser.tsx
+#	new file:   gatsby-config.ts
+#	new file:   gatsby-ssr.tsx
+#	new file:   package-lock.json
+#	new file:   package.json
+#	new file:   renovate.json
+#	new file:   src/Components/Service/index.tsx
+#	new file:   src/pages/404.tsx
+#	new file:   src/pages/index.tsx
+#	new file:   src/provider.tsx
+#	new file:   src/theme/index.ts
+#	new file:   src/utils/index.tsx
+#	new file:   tsconfig.json
+#
