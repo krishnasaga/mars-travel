@@ -1,6 +1,6 @@
 # Mars Travel Project
 
-Explore Mars through practical applications of technology, leveraging WebAssembly, Rust, and NASA JPL SPICE kernels. This project is designed to simulate and provide insights into Mars-Earth travel, celestial mechanics, and space exploration dynamics.
+Explore space through programming, leveraging WebAssembly, Rust, and NASA JPL SPICE kernels. This is a small project to simulate and provide insights into Mars-Earth travel, celestial mechanics, and space exploration dynamics.
 
 ## Features
 - **WebAssembly Integration**: High-performance computations running directly in the browser.
